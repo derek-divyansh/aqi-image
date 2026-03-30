@@ -2,6 +2,6 @@
   "prompt": "A two-tiered editorial illustration in a gritty, charcoal-sketch style. Top half: Four distinct stacks of cigarettes representing different cities. New Delhi is a massive, chaotic mountain of discarded butts with thick black smoke billowing out. Beijing is a neat, large bundle of cigarettes. London is a small pack. Washington DC is a single cigarette with a wisp of smoke. No clocks in the smoke. Bottom half: A clear horizontal partition showing the life stages of a man. A young child with a ball, a student, a young man, and a middle-aged man. The final two stages are heavily pixelated/blurred with a padlock icon over them to symbolize lost years. Text on a banner at the bottom reads 'LIFE SHORTENED BY AIR POLLUTION'. No explicit age numbers below the figures.",
   "model": "Gemini 3 Flash Image (Nano Banana 2)",
   "dataset_name": "New Delhi AQI and Global Air Quality Comparison 2021-2024",
-  "dataset_url": "User-provided New Delhi AQI dataset; Global daily cigarette equivalence derived from Berkeley Earth air quality research.",
+  "dataset_url": "https://www.aqi.in/in/world-air-quality-report",
   "insight": "Breathing the air in New Delhi is equivalent to smoking roughly 9 cigarettes a day, significantly cutting life expectancy compared to other global capitals."
 }

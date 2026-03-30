@@ -1,0 +1,6 @@
+{
+  "prompt": "A 1930s rubber-hose style black and white cartoon. A confused character stands between two identical wooden doors. The left door has a faint, inviting golden warm glow emanating from its edges (representing known probability). The right door is completely neutral and flat (representing unknown ambiguity). The character is reaching for the glowing door with a hesitant but determined expression. No text, no numbers, vintage film grain, high contrast.",
+  "model": "Gemini 3 Flash (Nano Banana 2)",
+  "paradox": "Ellsberg Paradox",
+  "visual_logic": "The glowing door represents 'risk' (known odds), while the neutral door represents 'ambiguity' (unknown odds). The character chooses the glow, illustrating the human preference for known risks over unknown uncertainties, even when outcomes are identical."
+}

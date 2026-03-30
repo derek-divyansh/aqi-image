@@ -1,0 +1,6 @@
+{
+  "prompt": "A conceptual 1930s vintage cartoon style illustration of a loan approval process. A stern bank officer is weighing application features on a giant balance scale. On the heavy, sinking side of the scale, there are large, massive weights labeled 'Credit Score', 'Annual Income', and 'Employment Length'. On the light, elevated side of the scale, there are tiny, pebble-sized weights labeled 'Person's Name', 'Favorite Color', and 'Shoe Size' that have almost no effect on the balance. Black and white rubber-hose animation style, grainy film texture, high contrast.",
+  "model": "Gemini 3 Flash Image (Nano Banana 2)",
+  "concept": "Feature Importance",
+  "metaphor": "A balance scale where the physical weight of specific 'data blocks' determines the outcome, illustrating how some variables carry more influence than others in a decision."
+}

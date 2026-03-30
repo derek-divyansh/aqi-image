@@ -1,0 +1,8 @@
+{
+  "prompt": "I want to clustering in a picture using traditional/meadeival ideas. Use this "Inglourious Basterds" movie scene for reference where they classify the person by his features (gesture) to be enemy.",
+  "model": "Nano Banana 2",
+  "concept": "Clustering",
+  "tradition_name": "World War II",
+  "tradition_period": "1944",
+  "tradition_approach": "Setting an undercover officer in enemy army"
+}
